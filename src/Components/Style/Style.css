@@ -1,0 +1,50 @@
+.navbar-nav a {
+    padding: 0 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px;
+}
+.right-logo{
+    border: 2px solid gray;
+    border-radius: 50%;
+    padding: 8px;
+    display: flex;
+    height: 20px;
+    width: 20px;
+    margin-right: 1rem;
+    justify-content: center;
+    vertical-align: middle;
+
+}
+.footer-logos{
+    height: 30px;
+    width: 30px;
+}
+
+/* header page css */
+
+.header-text{
+    background-color: #dbeef2;
+    padding: 25px;
+    margin-bottom: 0;
+    text-align: center;
+    outline: 1px solid #162544 !important;
+}
+.header-text-span{
+    color:#00bcd4
+
+}
+.get-know{
+    display: flex;
+   
+}
+
+
+/* body page css */
+
+.speciality-btn{
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+}
